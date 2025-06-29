@@ -4,7 +4,7 @@ import HeroSection from "@/components/HeroSection";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="bg-[#f3f1f1] min-h-screen flex flex-col font-montserrat">
       <Header />
       <HeroSection />
     </div>
