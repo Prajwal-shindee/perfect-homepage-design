@@ -8,7 +8,7 @@ const HeroSection = () => {
         We're in the business of
       </p>
       <h1
-        className="font-playfair font-extrabold text-[80px] sm:text-[100px] md:text-[120px] lg:text-[140px] leading-[1] bg-gradient-to-r from-[#f15a24] via-[#f7941d] to-[#fbb03b] bg-clip-text text-transparent select-none"
+        className="font-playfair font-extrabold text-[80px] sm:text-[100px] md:text-[120px] lg:text-[140px] leading-[1] bg-gradient-to-r from-[#f15a24] via-[#f7941d] to-[#fbb03b] bg-clip-text text-transparent select-none pb-4"
         style={{ textShadow: '0 10px 10px rgba(241, 90, 36, 0.3)' }}
       >
         growth
